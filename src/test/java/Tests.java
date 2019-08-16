@@ -43,7 +43,7 @@ public class Tests {
     public void Test4demo() {
 
         contAlex.add(new Depunere(4, "Incasare chirie transa 1", "20190620", 515));
-        contAlex.add(new Depunere(4, "Incasare chirie transa 2", "20190620", 100));
+        contAlex.add(new Depunere(5, "Incasare chirie transa 2", "20190620", 100));
 
         contAlex.add(new Retragere(5, "Plata rata iunie", "2019/06/22", 300, "plata rata"));
 
